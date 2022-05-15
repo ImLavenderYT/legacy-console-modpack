@@ -18,5 +18,6 @@ A modpack that make minecraft look like the legacy console edition. Warning I do
 ## Shader Settings:
 - Contrast: 0.4
 - Saturation: 0.4
+
 ---
 I hope this gives you nostalgia! 😀
