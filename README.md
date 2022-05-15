@@ -1,6 +1,6 @@
 # Legacy Console Modpack
 
-A modpack that make minecraft look like the legacy console edition. Warning I do not own any of these. This is just a compiled list of mods and best settings.
+A modpack that make minecraft look like the legacy console edition.
 
 ---
 ## Modloader:
